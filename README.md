@@ -2,7 +2,7 @@
 `Data Scientist in progress` | `Python` | `Machine Learning` | `Neural Networks`
 
 📍 Katowice, Silesia, Poland
-🔗 [LinkedIn](www.linkedin.com/in/jakub-strycharczyk-9162812bb)
+🔗 [LinkedIn](<https://www.linkedin.com/in/jakub-strycharczyk-9162812bb>)
 
 **Skills & Certificates:**
 - **Data Science in Practice** – ING Hubs Poland (2025)
